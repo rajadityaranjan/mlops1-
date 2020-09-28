@@ -1,6 +1,6 @@
-data_file = open('/home/jyotirmaya/ws/mlops1/data.txt','r')
-input_file = open('/home/jyotirmaya/ws/mlops1/input.txt','r')
-accuracy_file = open('/home/jyotirmaya/ws/mlops1/accuracy.txt','r')
+data_file = open('/home/rajadityaranjan/ws/mlops1-/data.txt','r')
+input_file = open('/home/rajadityaranjan/ws/mlops1-/input.txt','r')
+accuracy_file = open('/home/rajadityaranjan/ws/mlops1-/accuracy.txt','r')
 
 data = data_file.read()
 data = data.split('\n')
